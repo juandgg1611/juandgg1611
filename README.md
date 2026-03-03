@@ -15,7 +15,7 @@
 
 - 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Web Application Development and Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 🌱 I’m diving deeper into Machine Learning and Responsive Development
 
 ## 🛠 &nbsp;Tech Stack
 
