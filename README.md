@@ -16,6 +16,7 @@
 - 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Web Application Development and Machine Learning.
 - 🌱 I’m diving deeper into Machine Learning and Responsive Development
+- 🤖 I’m looking forward to collaborating on open source projects.
 
 ## 🛠 &nbsp;Tech Stack
 
